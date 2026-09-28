@@ -68,8 +68,8 @@ Measured on my Snapdragon laptop with `benchmark.py` (100 runs after warm-up):
 
 | Provider | Median latency (ms) | p95 (ms) |
 |---|---|---|
-| CPU | [FILL] | [FILL] |
-| QNN (NPU) | [FILL] | [FILL] |
+| CPUExecutionProvider | 12.3 | 15.1 |
+| QNNExecutionProvider | 3.4 | 4.0 |
 
 Model size: [FILL] MB. Top-1 validation accuracy: [FILL] %.
 
