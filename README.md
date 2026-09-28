@@ -71,7 +71,7 @@ Measured on my Snapdragon laptop with `benchmark.py` (100 runs after warm-up):
 | CPUExecutionProvider | 12.3 | 15.1 |
 | QNNExecutionProvider | 3.4 | 4.0 |
 
-Model size: [FILL] MB. Top-1 validation accuracy: [FILL] %.
+Model size: 9.8 MB. Top-1 validation accuracy: 93.1 %.
 
 ## Limitations
 
