@@ -1,0 +1,11 @@
+# Training / export (any machine)
+torch
+torchvision
+onnx
+qai-hub
+pillow
+numpy
+# On the Snapdragon laptop (Windows on ARM)
+onnxruntime-qnn
+flask
+flask-cors
